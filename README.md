@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NekoSmoke
-- 👀 I’m interested in Vidya, Animes and Honkai Star Rail
-- 🌱 I’m currently learning Java and C#
-- 💞️ I’m looking to collaborate on my FatecROOMS (a Java VN)
+- 👀 I’m interested in Vidya, Animes and UMAMUSUME
+- 🌱 I’m currently learning Java and C/C++ (Haskell in the future)
+- 💞️ I’m looking to collaborate on my Cassiopeia Demake for the GBC
 - 📫 How to reach me Discord: nekosmoke
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: BRASIL NUMERO 1!!!! BRASIL CAMPEÃO DO MUNDO!!!!!
